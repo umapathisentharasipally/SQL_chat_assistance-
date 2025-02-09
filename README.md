@@ -60,12 +60,12 @@ The assistant converts these natural language queries into SQL queries, executes
     *   Type your natural language queries in the input field and click "Send".
 
 ## Project Structure
-chat/
-app.py             (Python Flask application file)
-employee_database.db  (SQLite database file - will be created when you run app.py)
-templates/         (Folder for HTML templates)
-chat.html      (HTML template for the chat interface)
-README.md          (This file)
+* chat/
+* app.py             (Python Flask application file)
+* employee_database.db  (SQLite database file - will be created when you run app.py)
+* templates/         (Folder for HTML templates)
+* chat.html      (HTML template for the chat interface)
+* README.md          (This file)
 
 ## Known Limitations and Suggestions for Improvement
 
